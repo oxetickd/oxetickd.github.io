@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oxetickd.github.io/sitemap.oxetickd.gz
+Sitemap: https://oxetickd.github.io/app/sitemap.oxetickd.gz
+Sitemap: https://oxetickd.github.io/assets/sitemap.oxetickd.gz
+Sitemap: https://oxetickd.github.io/css/sitemap.oxetickd.gz
+Sitemap: https://oxetickd.github.io/data/sitemap.oxetickd.gz
+Sitemap: https://oxetickd.github.io/includes/sitemap.oxetickd.gz
+Sitemap: https://oxetickd.github.io/item/sitemap.oxetickd.gz
+Sitemap: https://oxetickd.github.io/src/sitemap.oxetickd.gz
